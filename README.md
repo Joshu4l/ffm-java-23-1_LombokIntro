@@ -1,6 +1,6 @@
 // https://projectlombok.org/setup/maven
 
-# Erstellt ein neues Java-Projekt in IntelliJ und nutzt Lombok, um eine einfache Shop-Entität zu erstellen.
+# Aufgabenstellung.
 
 #### _Schritt 1:_  
 Fügt die Lombok-Abhängigkeit zu eurem Projekt hinzu und konfiguriert IntelliJ, um Lombok zu unterstützen.
@@ -27,7 +27,7 @@ Schreibt eine "Main"-Klasse, in der ihr einige Beispiele für das Erstellen von 
 Prüft in der "Main"-Klasse ob die generierten Lombok Methoden korrekt funktionieren (getter, setter, toString,...).
 
 
-BONUSAUFGABEN:
+# BONUSAUFGABEN:
 
 * Finde herraus was die Lombok Annotation @Value macht und nutze diese für die Klasse Course.
 
